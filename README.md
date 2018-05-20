@@ -20,4 +20,4 @@ The main advantages of using leap frog integration is that, it is time reversibi
 • Gravitational force
 All the forces are computed for every particle and each instance of time and the position of the particle is updated using the solved. Finally, the results are displayed on the output screen.
 
-[![Watch the video](https://github.com/HameedaTaj/Cloth-Simulation/blob/master/Cloth.mp4)]
+![Alt Text](https://github.com/HameedaTaj/Cloth-Simulation/blob/master/cloth.gif)]
