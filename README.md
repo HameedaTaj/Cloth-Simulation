@@ -2,6 +2,7 @@
 Physics Based Cloth Simulation
 Technique
 Steps involved in my implementation are listed below: 
+
 1.Intialize the particles:
 Each particle has a set of attribute: Initial position, velocity, mass, color.I have 400 particles in my mesh, loop over all particles and set initial values.
   
