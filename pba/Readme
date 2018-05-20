@@ -1,1 +1,18 @@
 
+To build and run pba, do the following
+
+build:
+-------
+
+make
+make viewer
+make stuff
+
+run:
+--------
+ My files and modifications are listed below:
+
+Under Things folder ->ParticleSystem.h 
+Under Python folder ->pba_ParticleSystem_viewer.py
+I have created my makefile for particle system
+Also modified pbathings.h under base folder
